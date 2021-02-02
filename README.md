@@ -1,0 +1,2 @@
+# KaraokeManagement
+Karaoke Management software
